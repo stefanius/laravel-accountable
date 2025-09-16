@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [10.1.0] - 2025-09-16
 ### Added
 - Added support for setting users explicitly
+- Added whileActingAs
 
 ## [10.0.0] - 2025-04-09
 ### Added
